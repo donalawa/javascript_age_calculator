@@ -4,13 +4,12 @@
 }
 
 body {
-	background-color: #ccc;
+	background-color:#00c9b7;
 }
 
 .container {
 	width: 30%;
 	margin: 0 auto;
-	background: brown;
 	height: 400px;
 	margin-top: 300px;
 }
@@ -45,6 +44,7 @@ button:hover{
 }
 
 form {
-	border: 1px solid #ccc;
+	/*border: 1px solid #ccc;*/
 	height: 100%;
+	border-radius: 40px;
 }
