@@ -5,7 +5,7 @@ function agecalc(){
 	if(typeof(y_birth) === "number"){
 		var c_year = 2019;
 		var y_age = c_year - y_birth;
-		//alert(y_age)
+		
 		document.getElementById("display").innerHTML = "You are " + y_age + " years old";
 	}else{
 		alert("Its not a number");
