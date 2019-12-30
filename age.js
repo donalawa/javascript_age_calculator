@@ -8,7 +8,7 @@ function agecalc(){
 		
 		document.getElementById("display").innerHTML = "You are " + y_age + " years old";
 	}else{
-		alert("Its not a number");
+		alert("Its not a number");  
 	}
 }
    
